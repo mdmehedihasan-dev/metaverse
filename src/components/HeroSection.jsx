@@ -71,7 +71,7 @@ export default function HeroSection() {
           </div>
         </div>
       </div>
-      <div className="absolute bottom-[-180px]">
+      <div className="absolute bottom-[-200px]">
       <div className="relative">
         <img src="/Subtract2.png" className="w-[828px] absolute right-4 top-5"/>
         <img src="/Subtract.png"  />
